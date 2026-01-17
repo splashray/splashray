@@ -4,7 +4,7 @@
 
 I'm a Backend Engineer with **4+ years** of experience building event-driven platforms, internal CRM systems, and high-traffic APIs serving **1,000+ active users** in production. I specialize in Node.js, NestJS, PostgreSQL, and cloud deployments, delivering systems that achieve **99%+ uptime** for real businesses.
 
-🔗 **[View My Portfolio](https://yourportfolio.com)** | 📄 **[Download Resume](https://docs.google.com/document/d/1fbhOSUJl8Sm6qlkhcngAGYnxnjTdIA0tdtZQDB3PU88/edit?usp=sharing)**
+🔗 **[View My Portfolio](https://splashray.me)** | 📄 **[Download Resume](https://docs.google.com/document/d/1fbhOSUJl8Sm6qlkhcngAGYnxnjTdIA0tdtZQDB3PU88/edit?usp=sharing)**
 
 ---
 
@@ -112,15 +112,13 @@ I'm a Backend Engineer with **4+ years** of experience building event-driven pla
 
 ## 📊 GitHub Stats
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Splashray's GitHub Stats](https://github-readme-stats.vercel.app/api?username=splashray&show_icons=true&theme=radical)](https://github.com/splashray)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=splashray&count_private=true&theme=tokyonight&showicons=true)]()
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=splashray&layout=compact&theme=radical)](https://github.com/splashray)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=splashray&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=splashray&theme=dark)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=splashray&langs_count=5&theme=tokyonight)]()
-
-![](https://komarev.com/ghpvc/?username=splashray&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=splashray&style=flat-square)
 
 ---
 
