@@ -114,13 +114,13 @@ I'm a Backend Engineer with **4+ years** of experience building event-driven pla
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=splashray&show_icons=true&theme=radical&hide_border=true" height="160" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=splashray&show_icons=true&theme=radical&hide_border=true&v=2" height="160" alt="Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=splashray&layout=compact&theme=radical&hide_border=true" height="160" alt="Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=splashray&layout=compact&theme=radical&hide_border=true&v=2" height="160" alt="Langs" />
 
   <br/>
 
-  <img src="https://streak-stats.demolab.com?user=splashray&theme=radical&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=splashray&theme=radical&hide_border=true&v=2" alt="Streak" />
 
   <br/>
 
