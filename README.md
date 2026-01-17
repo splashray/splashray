@@ -110,29 +110,7 @@ I'm a Backend Engineer with **4+ years** of experience building event-driven pla
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=splashray&show_icons=true&theme=radical&hide_border=true&v=2" height="160" alt="Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=splashray&layout=compact&theme=radical&hide_border=true&v=2" height="160" alt="Langs" />
-
-  <br/>
-
-  <img src="https://streak-stats.demolab.com?user=splashray&theme=radical&hide_border=true&v=2" alt="Streak" />
-
-  <br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=splashray&theme=radical&hide_border=true" alt="Activity" />
-
-</div>
-
-![Profile Views](https://komarev.com/ghpvc/?username=splashray&style=flat-square)
-
----
-
-## 🌐 Find Me Around the Web
+## 🌐 Find Me Around the Web 
 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20183319/splashray-creations)
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/splashray)
