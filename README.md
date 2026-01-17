@@ -105,18 +105,22 @@ I'm a Backend Engineer with **4+ years** of experience building event-driven pla
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/splashray/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/splashray_tayo)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:splashraycreations@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://splashray.me)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/splashray_tayo)
 
 ---
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=splashray&theme=tokyonight)](https://git.io/streak-stats)
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=splashray&count_private=true&theme=tokyonight&show_icons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=splashray&count_private=true&theme=tokyonight&showicons=true)]()
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=splashray&langs_count=8&theme=tokyonight&layout=compact)]()
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=splashray&theme=dark)](https://git.io/streak-stats)
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=splashray&langs_count=5&theme=tokyonight)]()
+
+![](https://komarev.com/ghpvc/?username=splashray&color=blue)
 
 ---
 
