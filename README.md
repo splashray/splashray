@@ -112,11 +112,21 @@ I'm a Backend Engineer with **4+ years** of experience building event-driven pla
 
 ## 📊 GitHub Stats
 
-[![Splashray's GitHub Stats](https://github-readme-stats.vercel.app/api?username=splashray&show_icons=true&theme=radical)](https://github.com/splashray)
+<div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=splashray&layout=compact&theme=radical)](https://github.com/splashray)
+  <img src="https://github-readme-stats.vercel.app/api?username=splashray&show_icons=true&theme=radical&hide_border=true" height="160" alt="Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=splashray&layout=compact&theme=radical&hide_border=true" height="160" alt="Langs" />
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=splashray&theme=dark)
+  <br/>
+
+  <img src="https://streak-stats.demolab.com?user=splashray&theme=radical&hide_border=true" alt="Streak" />
+
+  <br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=splashray&theme=radical&hide_border=true" alt="Activity" />
+
+</div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=splashray&style=flat-square)
 
