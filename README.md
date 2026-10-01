@@ -4,7 +4,7 @@
 
 I'm a Backend Engineer with **4+ years** of experience building event-driven platforms, internal CRM systems, and high-traffic APIs serving **1,000+ active users** in production. I specialize in Node.js, NestJS, PostgreSQL, and cloud deployments, delivering systems that achieve **99%+ uptime** for real businesses.
 
-🔗 **[View My Portfolio](https://splashray.me)** | 📄 **[Download Resume](https://docs.google.com/document/d/1fbhOSUJl8Sm6qlkhcngAGYnxnjTdIA0tdtZQDB3PU88/edit?usp=sharing)**
+🔗 **[View My Portfolio](https://splashray.codmify.com)** | 📄 **[Download Resume](https://docs.google.com/document/d/1fbhOSUJl8Sm6qlkhcngAGYnxnjTdIA0tdtZQDB3PU88/edit?usp=sharing)**
 
 ---
 
